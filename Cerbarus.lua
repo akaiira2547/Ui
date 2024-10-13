@@ -310,7 +310,7 @@ local function createOriginialElements()
 		close.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 		close.BackgroundTransparency = 1.000
 		close.BorderSizePixel = 0
-		close.Size = UDim2.new(5, 5, 5, 5)
+		close.Size = UDim2.new(1, 0, .5, 0)
 		close.AutoButtonColor = false
 		close.Image = "rbxassetid://11520882762"
 		close.ImageRectOffset = Vector2.new(48, 0)
